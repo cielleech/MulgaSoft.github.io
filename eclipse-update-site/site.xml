@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <description url="https://raw.githubusercontent.com/cielleech/MulgaSoft.github.io/main/eclipse-update-site">
+   <description url="https://raw.githubusercontent.com/cielleech/MulgaSoft.github.io/features/v4.3.5/eclipse-update-site">
       Emacs+ update site
    </description>
    <feature url="features/com.mulgasoft.emacsplus.optional.features_4.3.2.jar" id="com.mulgasoft.emacsplus.optional.features" version="4.3.2">
